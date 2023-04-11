@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @Achref23illi
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning git and C
-- 📫 How to reach me achrefarabi414@gmail.com
+Hi, I'm Achref! 👋
+<br />
+Interests 🤔:
+<br />
+I'm interested in:
 
-<!---
-Achref23illi/Achref23illi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Website development 🌐<br />
+App development 📱<br />
+Database management 🗄️<br />
+Data analysis 📊<br />
+<br />
+Skills 🛠️:
+I am proficient in:
+
+C language 🔍<br />
+HTML 🌟<br />
+CSS 🎨<br />
+Python 🐍<br />
+I'm also currently learning:
+
+JavaScript 🌟<br />
+Java ☕<br />
+SQL 📝<br />
+<br /><br />
+Contact 📫:
+If you have any questions or would like to get in touch, you can reach me at:
+
+Email: achrefarabi414@gmail.com 📧<br />
+LinkedIn: https://www.linkedin.com/in/achraf-arabi-a35376221/ 💼<br />
+<br /><br />
+Thanks for stopping by! 👍
