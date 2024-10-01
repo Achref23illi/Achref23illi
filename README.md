@@ -17,8 +17,7 @@ HTML 🌟<br />
 CSS 🎨<br />
 Python 🐍<br />
 JavaScript 🌟<br />
-Java ☕<br />
-SQL 📝<br />
+React Native <br />
 <br /><br />
 Contact 📫:
 If you have any questions or would like to get in touch, you can reach me at:
